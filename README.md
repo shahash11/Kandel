@@ -1,1 +1,1 @@
-# Kandel
+# C++ Assignment Spring 2021
